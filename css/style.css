@@ -1,4 +1,33 @@
-.di{
+h1{
     color: red;
     background-color: aqua;
+    text-align: center;
+}
+
+table{
+    border: 10px solid rgb(228, 228, 17);
+    width: 400px;
+    height: 400px;
+    background-color: yellow;
+    margin-left: 500px;
+}
+.seed{
+        width: 20px;
+        height: 20px;
+        border: 2px solid black;
+        border-radius: 1000%;
+        background-color: green;
+        margin-left: 5px;
+}
+.seed1{
+        width: 20px;
+        height: 20px;
+        border: 2px solid black;
+        border-radius: 1000%;
+        background-color: blue;
+        margin-left: 5px;
+}
+.holder{
+    width: 35px;
+    height: 35px;
 }
